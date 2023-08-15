@@ -17,6 +17,7 @@ public class Main {
             if(mas[i]==key){
                 System.out.println("Key was finded");
             }
+
         }
 
 
